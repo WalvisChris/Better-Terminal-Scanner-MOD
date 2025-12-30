@@ -1,3 +1,6 @@
+# 1.0.3  
+- fixed exploded items showing up.  
+
 # 1.0.2  
 - fixed the mod. It now works for all players.  
 
